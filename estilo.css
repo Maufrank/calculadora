@@ -1,0 +1,22 @@
+.formulario{
+/* background-color: whitesmoke; */
+background-color: rgb(243, 218, 255);
+padding: 20px;
+margin: 20px;
+display: flex;
+flex-direction: column;
+font-size: x-large;
+border-radius: 20px;
+
+
+}
+button{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: x-large;
+    border-radius: 10px;
+    border-color: rgb(134, 27, 201);
+    border-style:double;
+    border-width: 6px;
+
+}
